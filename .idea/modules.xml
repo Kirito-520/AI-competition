@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Baseline.iml" filepath="$PROJECT_DIR$/.idea/Baseline.iml" />
+      <module fileurl="file://D:/深度学习/框架/Pytorch/Pytorch_code/.idea/Pytorch_code.iml" filepath="D:/深度学习/框架/Pytorch/Pytorch_code/.idea/Pytorch_code.iml" />
+      <module fileurl="file://D:/深度学习/Object detection/yolov1/code/.idea/code.iml" filepath="D:/深度学习/Object detection/yolov1/code/.idea/code.iml" />
+    </modules>
+  </component>
+</project>
